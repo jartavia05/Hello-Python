@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com)
-[![GitHub followers](https://img.shields.io/github/followers/jartavia05?style=for-the-badge)](https://github.com/jartavia05?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/jartavia05?style=for-the-badge)](https://github.com/Hartmmy?tab=followers)
 
 ## Curso para aprender Python desde cero, para principiantes y con un proyecto practico.
 
